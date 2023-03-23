@@ -1,6 +1,6 @@
 {
     "rewrites":  [
         {"source": "/(.*)", "destination": "/index.html"},
-        {"source": "/character/:id", "destination": "/src/components/pages/character/Character.jsx"}
+        {"source": "/character/", "destination": "/src/components/pages/character/Character.jsx"}
     ]
 }
