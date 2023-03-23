@@ -1,0 +1,17 @@
+.searchInputWrapper{
+    width: 100%;
+}
+.searchInput{
+    margin-top: 16px;
+    width: 100%;
+    padding: 16px 16px 16px 49px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    background-image: url(../../../assets/serchIcon.svg);
+    background-repeat: no-repeat ;
+    background-position: top 20px left 19px;
+}
